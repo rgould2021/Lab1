@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "brachiosaurus-silhouette.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "brachiosaurus-silhouette 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "brachiosaurus-silhouette 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
